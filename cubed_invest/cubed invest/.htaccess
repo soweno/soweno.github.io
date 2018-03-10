@@ -1,0 +1,10 @@
+Options -Indexes
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+ErrorDocument 403 /error_page/403.html
+ErrorDocument 404 /error_page/404.html
+ErrorDocument 500 /error_page/500.html

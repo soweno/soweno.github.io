@@ -1,0 +1,191 @@
+@font-face {
+    font-family: 'PTSansCaptionBold';
+    src: url('../fonts/ptc75f.eot');
+    src: url('../fonts/ptc75f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ptc75f.woff') format('woff'),
+         url('../fonts/ptc75f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSansCaption';
+    src: url('../fonts/ptc55f.eot');
+    src: url('../fonts/ptc55f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ptc55f.woff') format('woff'),
+         url('../fonts/ptc55f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSansNarrowRegular';
+    src: url('../fonts/ptn57f.eot');
+    src: url('../fonts/ptn57f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ptn57f.woff') format('woff'),
+         url('../fonts/ptn57f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'PTSansNarrowBold';
+    src: url('../fonts/ptn77f.eot');
+    src: url('../fonts/ptn77f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ptn77f.woff') format('woff'),
+         url('../fonts/ptn77f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'PTSansItalic';
+    src: url('../fonts/pts56f.eot');
+    src: url('pts56f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pts56f.woff') format('woff'),
+         url('../fonts/pts56f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'PTSansBoldItalic';
+    src: url('../fonts/pts76f.eot');
+    src: url('../fonts/pts76f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pts76f.woff') format('woff'),
+         url('../fonts/pts76f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSansBold';
+    src: url('../fonts/pts75f.eot');
+    src: url('../fonts/pts75f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pts75f.woff') format('woff'),
+         url('../fonts/pts75f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+     font-family: 'PTSansRegular';
+    src: url('../fonts/pts55f.eot');
+    src: url('pts55f.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pts55f.woff') format('woff'),
+         url('../fonts/pts55f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Oxygen';
+    src: url('../fonts/oxygen.eot');
+    src: url('../fonts/oxygen.woff') format('woff'),
+         url('../fonts/oxygen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_probold';
+  src:url('../fonts/pfdin/pfdintextcondpro-bold-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-bold-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-bold-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-bold-webfont.svg#pf_din_text_cond_probold') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_proitalic';
+  src:url('../fonts/pfdin/pfdintextcondpro-italic-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-italic-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-italic-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-italic-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-italic-webfont.svg#pf_din_text_cond_proitalic') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_prolight';
+  src:url('../fonts/pfdin/pfdintextcondpro-light-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-light-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-light-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-light-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-light-webfont.svg#pf_din_text_cond_prolight') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_promedium';
+  src:url('../fonts/pfdin/pfdintextcondpro-medium-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-medium-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-medium-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-medium-webfont.svg#pf_din_text_cond_promedium') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_proregular';
+  src:url('../fonts/pfdin/pfdintextcondpro-regular-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-regular-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-regular-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-regular-webfont.svg#pf_din_text_cond_proregular') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_din_text_cond_prothin';
+  src:url('../fonts/pfdin/pfdintextcondpro-thin-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextcondpro-thin-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextcondpro-thin-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextcondpro-thin-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextcondpro-thin-webfont.svg#pf_din_text_cond_prothin') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'pf_dintext_promedium';
+  src:url('../fonts/pfdin/pfdintextpro-medium-webfont.eot');
+  src:url('../fonts/pfdin/pfdintextpro-medium-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/pfdin/pfdintextpro-medium-webfont.woff') format('woff'),
+      url('../fonts/pfdin/pfdintextpro-medium-webfont.ttf') format('truetype'),
+      url('../fonts/pfdin/pfdintextpro-medium-webfont.svg#pf_dintext_promedium') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+@font-face{
+    font-family:'icomoon';
+    src:url("../fonts/icomoon.eot?dsdim1");
+    src:url("../fonts/icomoon.eot?#iefixdsdim1") format("embedded-opentype"),
+        url("../fonts/icomoon.woff?dsdim1") format("woff"),
+        url("../fonts/icomoon.ttf?dsdim1") format("truetype"),
+        url("../fonts/icomoon.svg?dsdim1#icomoon") format("svg");
+        font-weight:normal;font-style:normal
+}
+
+
+@font-face {
+    font-family: 'texgyreadventorbold';
+    src: url('../fonts/texgyreadv/texgyreadventor-bold.eot');
+    src: url('../fonts/texgyreadv/texgyreadventor-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/texgyreadv/texgyreadventor-bold.woff') format('woff'),
+         url('../fonts/texgyreadv/texgyreadventor-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,46 @@
+
+@media (max-width: 480px) {
+
+}
+@media (max-width: 640px) {
+
+
+}
+@media (max-width: 767px) {
+
+}
+@media (max-width: 771px) {
+
+}
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 1400px) {
+body {     background: url('../images/bt-stat.png') center center no-repeat fixed !important;
+}
+	.wrapper { display: block;
+		background:none;
+		}
+	.paysys-title.other { margin-top:-121px;}
+	.box-place:before { display: none; }
+	.form-styled.form-styled-1 .field label:before
+	{
+    	border-top: 45px solid rgb(248, 248, 249);
+	}
+	.form-styled.form-styled-1 .field label:after
+	{
+    border-bottom: 45px solid rgb(244, 244, 246);
+	}
+}
